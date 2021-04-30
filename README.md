@@ -1,2 +1,2 @@
-# spring-boot-corporative-ms-customer
+# corporative-ms-customer
 Project for demo
